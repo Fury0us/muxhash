@@ -8,5 +8,5 @@ cd muxhash
 bash muxhash.sh
 #
 ### functionality
-offers multiple encryption methods such as aes, aria, blowfish, des, etc.
+offers multiple encryption methods such as aes, aria, des, etc.
 simply run and follow the prompts!
